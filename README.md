@@ -34,15 +34,3 @@ The following parameters are optimized in this project:
 *Roll No* : 102016068
 <br>
 *Batch* : CS 11
-
-
-
-
-
-
-## Result 
-
-
-#
-
-
