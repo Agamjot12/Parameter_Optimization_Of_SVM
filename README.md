@@ -24,6 +24,10 @@ The following parameters are optimized in this project:
 - **kernel:** the kernel function used for the SVM algorithm.
 - **epsilon:** the margin of error allowed in the SVM algorithm.
 
+## Result Table
+<img width="365" alt="Screenshot 2023-04-20 at 1 14 34 AM" src="https://user-images.githubusercontent.com/72341235/233183302-22db5257-9998-4369-bccd-052f479412b2.png">
+
+
 ## Convergence Graph
 <img width="733" alt="Screenshot 2023-04-20 at 1 06 21 AM" src="https://user-images.githubusercontent.com/72341235/233181801-f0396852-629e-40ca-abf0-207c3c1daca3.png">
 
