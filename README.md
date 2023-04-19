@@ -1,14 +1,20 @@
-## Parameter Optimization of SVM using Randomization in R
+# Parameter Optimization of SVM
 
-This project is an implementation of Support Vector Machine (SVM) algorithm using parameter optimization with randomization in R programming language.
 
-## About SVM
+Support Vector Machine (SVM) is a widely used supervised learning algorithm that can accurately classify and analyze regression data. SVM is highly effective in finding the best boundary that divides the data points into their respective classes by creating a hyperplane in a high-dimensional space.
 
-SVM is a powerful machine learning algorithm used for classification and regression analysis. It works by finding the best hyperplane that separates the data into different classes. The optimization of parameters is an essential step in SVM, as it helps to improve the accuracy of the model.
+To achieve optimal performance from SVM, it is essential to carefully select various parameters like the kernel type, regularization parameter, and the kernel coefficient. These parameters significantly impact the performance of the SVM model, and their optimal values can be determined by a process called parameter optimization.
 
-## About Parameter Optimization using Randomization
+Parameter optimization is the process of systematically searching through the parameter space to identify the best combination of parameter values that maximizes the performance of the SVM model on a given dataset. There are several methods for parameter optimization, including grid search, random search, and Bayesian optimization. These methods help in finding the best set of parameter values that improve the accuracy of the SVM model on the test data.
 
-Parameter optimization is the process of selecting the optimal set of parameters for a given algorithm to achieve the best performance. Randomization is a technique used to generate random values for the parameters to find the best combination of parameters that result in the best model performance. In this project, we will use randomization to optimize the parameters of SVM.
+
+## Tasks Performed
+1. Download the dataset
+2. Pre-process the dataset
+3. Create ten samples 
+4. Split the samples in  70 : 30 for training and testing
+5. Optimise SVM using randomisation for every sample and report best accuracy and best parameters
+6. For the best sample plot the convergence graph
 
 ## Parameters Optimized
 
@@ -18,12 +24,25 @@ The following parameters are optimized in this project:
 - **kernel:** the kernel function used for the SVM algorithm.
 - **epsilon:** the margin of error allowed in the SVM algorithm.
 
-## Result 
+## Convergence Graph
 <img width="733" alt="Screenshot 2023-04-20 at 1 06 21 AM" src="https://user-images.githubusercontent.com/72341235/233181801-f0396852-629e-40ca-abf0-207c3c1daca3.png">
 
-## Conclusion
 
-In conclusion, this project provides an implementation of SVM with parameter optimization using randomization in R. The use of randomization helps to find the best combination of parameters that results in the best model performance. You can use this project as a starting point to develop more sophisticated SVM models for classification and regression analysis.
+## Submission by :
+*Name* : Agamjot Singh
+<br>
+*Roll No* : 102016068
+<br>
+*Batch* : CS 11
 
+
+
+
+
+
+## Result 
+
+
+#
 
 
