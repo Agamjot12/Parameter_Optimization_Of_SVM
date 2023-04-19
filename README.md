@@ -17,8 +17,9 @@ Parameter optimization is the process of finding the best set of parameter value
 
 ## Dataset used : https://archive.ics.uci.edu/ml/datasets/Letter+Recognition
 
-Number of Instances : 
-Number of Attributes : 
+Number of Instances : 20000
+<br>
+Number of Attributes : 16
 
 
 
