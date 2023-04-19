@@ -1,4 +1,4 @@
-# Parameter_Optimization_Of_SVM
+# Parameter Optimization of SVM
 
 Support Vector Machine (SVM) is a popular supervised learning algorithm used for classification and regression analysis. It is a powerful tool for finding the optimal boundary that separates the two classes. SVM works by creating a hyperplane in a high-dimensional space that optimally separates the data points into their respective classes.
 
